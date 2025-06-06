@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetamdevji&label=Profile%20views&color=0e75b6&style=flat" alt="preetamdevji" /> </p>
 
-- 🔭 I’m currently working on **e-commerce project using mern**
+- 🔭 I’m currently working on **Air-Ticket-Reservation using MERN-STACK**
 
-- 🌱 I’m currently learning **javascript frameworks and libraries**
+- 🌱 I’m currently learning **Exploring Python AI Agents with DACA SDK using OOPs principles. Learning to use       
+DAPR for scalable, event-driven AI apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Preetamdevji](https://github.com/Preetamdevji)
 
